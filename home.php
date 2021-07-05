@@ -13,3 +13,5 @@ include 'includes/header.php';
  <h3>The current number of pending Tasks is <?php print_r ($no_of_tasks); } ?> </h3>
  <a  class="btn btn-primary" href="index.php">Add new task</a>
 <a  class="btn btn-secondary ml-2" href="view.php">View all tasks </a>
+</div>
+</body>

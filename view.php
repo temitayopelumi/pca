@@ -61,3 +61,11 @@ for ($x = 0; $x < $no_of_tasks; $x++) {
  ?>
 </tbody>
 </table>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+</body>
